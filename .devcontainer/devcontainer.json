@@ -1,0 +1,5 @@
+{
+  "name": "Elm",
+  "dockerFile": "Dockerfile",
+  "extensions": ["Elmtooling.elm-ls-vscode"]
+}

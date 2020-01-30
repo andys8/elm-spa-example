@@ -1,5 +1,12 @@
 # ![RealWorld Example App](https://cloud.githubusercontent.com/assets/556934/25448178/3e7dc5c0-2a7d-11e7-8069-06da5169dae6.png)
 
+## Devcontainer demo
+
+* `code .`
+* `F1`
+* Remote-Container: Open in container
+* Elm-language-server (diagnostics or jump to definition) should work
+
 👉 I gave [a talk](https://www.youtube.com/watch?v=x1FU3e0sT1I)
 to explain the principles I used to build this. I highly recommend watching it!
 
